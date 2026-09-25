@@ -60,6 +60,10 @@ python data/download_data.py
 jupyter notebook notebooks/01_eda_features.ipynb
 ```
 
+## 📊 Démo live
+
+> [🔗 Voir l'app sur Streamlit Cloud](https://diogoa78-07-demonstrateur-hsrfdt8xqoiobofkvqmaqd.streamlit.app/)
+
 ## 📄 Source des données
 
 - **German Credit — UCI / OpenML**
